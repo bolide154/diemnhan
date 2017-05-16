@@ -13,4 +13,4 @@ This file adds functions to the theme.
 @version 1.5.2
 
 @git clone git@github.com:dcliem/diemnhan.git
-@https clone https://github.com/dcliem/diemnhan
+@https clone https://github.com/dcliem/diemnhan 1234
